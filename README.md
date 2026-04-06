@@ -1,4 +1,5 @@
-# Mapa Supervisor
+# Mapa Supervisor (Updated)
+
 
 Aplicación web interactiva de mapa para gestión de instalaciones/supervisión en la ciudad de Temuco, Chile.
 
